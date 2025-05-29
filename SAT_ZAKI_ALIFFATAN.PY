@@ -3,7 +3,7 @@ import datetime
 kereta = {
     "Argo Bromo": 158000,
     "Sancaka": 270000,
-    "Argo Mills Panoramic": 758000
+    "Argo Wills Panoramic": 758000
 }
 
 print("Selamat datang di Pemesanan Tiket Kereta Api")
